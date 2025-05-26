@@ -1,0 +1,22 @@
+baseURL: "https://example.com/"
+languageCode: "en-us"
+title: "My PaperMod Site"
+theme: "github.com/adityatelange/hugo-PaperMod"
+
+pagination:
+  pagerSize: 10
+
+params:
+  ShowReadingTime: true
+  ShowToc: true
+  ShowBreadCrumbs: true
+  homeInfoParams:
+    Title: "Welcome"
+    Content: "This is your new Hugo site powered by PaperMod."
+
+menu:
+  main:
+    - identifier: "posts"
+      name: "Posts"
+      url: "/posts/"
+      weight: 10
