@@ -6,8 +6,15 @@
     <description>Recent content on My PaperMod Site</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample Hugo Test Page</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Mon, 26 May 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>A comprehensive test page for Hugo website development</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
